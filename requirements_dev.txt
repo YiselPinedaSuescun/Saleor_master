@@ -104,7 +104,7 @@ opentracing==2.3.0
 packaging==20.3
 pathspec==0.7.0
 phonenumberslite==8.12.1
-pillow==7.1.1
+pillow==9.3.0
 pluggy==0.13.1
 pre-commit==2.2.0
 prices==1.0.0
